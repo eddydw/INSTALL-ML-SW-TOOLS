@@ -18,7 +18,7 @@ Note that **Section 11**
 of such document explains how to install the DeePhi tools on the Host and Target** with many more details than what available in the official
 [DNNDK User Guide 1327](http://www.deephi.com/assets/ug1327-xilinx-dnndk-user-guide.pdf).
 
-Note also that **subSection 11.1** tells you how setting correclty a **p2.xlarge** EC2 on a Ubuntu 16.04 AMI on the **AWS**.
+Note also that **subSection 11.1** tells you how setting correctly a **p2.xlarge** EC2 on a Ubuntu 16.04 AMI on the **AWS**.
 
 
 
@@ -26,7 +26,7 @@ Note also that **subSection 11.1** tells you how setting correclty a **p2.xlarge
 
 1) Here is the official online [Caffe tutorial](http://caffe.berkeleyvision.org/tutorial/).
 
-2) These are some very good posts - among many others - available from [PyImageSearch](https://www.pyimagesearch.com/):
+2) Here are some very good posts - among many others - available from [PyImageSearch](https://www.pyimagesearch.com/):
 
 - https://www.pyimagesearch.com/2016/11/14/installing-keras-with-tensorflow-backend/
 - https://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/
