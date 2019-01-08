@@ -30,4 +30,4 @@ Note also that **subSection 11.1** tells you how setting correctly a **p2.xlarge
 
 - https://www.pyimagesearch.com/2016/11/14/installing-keras-with-tensorflow-backend/
 - https://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/
--https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/
+- https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/
