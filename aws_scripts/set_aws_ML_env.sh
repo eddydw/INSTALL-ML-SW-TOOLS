@@ -16,8 +16,8 @@ sudo mkdir /home/ML
 sudo mkdir /home/ML/cifar10      # folder for the ML-CIFAR10-Tutorial
 sudo mkdir /home/ML/cats-vs-dogs # folder for the ML-CIFAR10-Tutorial
 
-sudo chown $USER /home/ML
-sudo chgrp $USER /home/ML
+sudo chown -R $USER /home/ML
+sudo chgrp -R $USER /home/ML
 #cp -r /home/ubuntu/ML/cifar10 /home/ML/cifar10
 #ln -s /home/ubuntu/ML/cifar10 /home/ML/cifar10
 
