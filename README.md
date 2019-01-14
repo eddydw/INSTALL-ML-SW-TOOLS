@@ -18,9 +18,8 @@ Note that **Section 11** of such document explains how to install the DeePhi too
 
 Note also that **Section 12** tells you how setting correctly a **p2.xlarge** EC2 on a Ubuntu 16.04 AMI on the **AWS**.
 
-I recommend you to skip **Sections 8 and 9** and try to run directly **Section 10**, which contains a sophisticated script to install automatically 
-Caffe, TensorFlow, Keras, provided you have already correcly installed the NVIDIA libraries according to Sections 6 and 7.
- 
+I recommend you to skip **Sections 8 and 9** and try to run directly **Section 10**, which contains a sophisticated script to install automatically Caffe, TensorFlow, Keras, provided you have already correcly installed the NVIDIA libraries according to Sections 6 and 7.
+
 Assuming you have copied the [install_caffe_scripts.tar](./PDF/install_caffe_scripts.tar) to your $HOME directory,  all what you need to do is to run the following commands from your Ubuntu Linux PC:
 ```
 cd ~
