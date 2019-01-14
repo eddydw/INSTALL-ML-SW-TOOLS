@@ -1,0 +1,138 @@
+conda install keras
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/ubuntu/anaconda3
+
+  added / updated specs: 
+    - keras
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    grpcio-1.12.1              |   py36hdbcaa40_0         1.7 MB
+    termcolor-1.1.0            |           py36_1           7 KB
+    tensorflow-base-1.9.0      |mkl_py36h2ca6a6a_0        75.7 MB
+    absl-py-0.6.1              |           py36_0         152 KB
+    keras-preprocessing-1.0.5  |           py36_0          52 KB
+    certifi-2018.11.29         |           py36_0         146 KB
+    keras-applications-1.0.6   |           py36_0          49 KB
+    markdown-3.0.1             |           py36_0         107 KB
+    keras-base-2.2.4           |           py36_0         457 KB
+    tensorflow-1.9.0           |mkl_py36h6d6ce78_1           3 KB
+    conda-4.5.12               |           py36_0         1.0 MB
+    astor-0.7.1                |           py36_0          43 KB
+    tensorboard-1.9.0          |   py36hf484d3e_0         3.3 MB
+    gast-0.2.1                 |           py36_0         137 KB
+    ------------------------------------------------------------
+                                           Total:        82.9 MB
+
+The following NEW packages will be INSTALLED:
+
+    _tflow_select:       2.3.0-mkl               
+    absl-py:             0.6.1-py36_0            
+    astor:               0.7.1-py36_0            
+    gast:                0.2.1-py36_0            
+    grpcio:              1.12.1-py36hdbcaa40_0   
+    keras:               2.2.4-0                 
+    keras-applications:  1.0.6-py36_0            
+    keras-base:          2.2.4-py36_0            
+    keras-preprocessing: 1.0.5-py36_0            
+    markdown:            3.0.1-py36_0            
+    tensorboard:         1.9.0-py36hf484d3e_0    
+    tensorflow:          1.9.0-mkl_py36h6d6ce78_1
+    tensorflow-base:     1.9.0-mkl_py36h2ca6a6a_0
+    termcolor:           1.1.0-py36_1            
+
+The following packages will be UPDATED:
+
+    certifi:             2018.8.24-py36_1         --> 2018.11.29-py36_0
+    conda:               4.5.11-py36_0            --> 4.5.12-py36_0    
+
+Proceed ([y]/n)? 
+grpcio-1.12.1        | 1.7 MB    |            |   0% grpcio-1.12.1        | 1.7 MB    | ########1  |  81% grpcio-1.12.1        | 1.7 MB    | ########## | 100% 
+termcolor-1.1.0      | 7 KB      |            |   0% termcolor-1.1.0      | 7 KB      | ########## | 100% 
+tensorflow-base-1.9. | 75.7 MB   |            |   0% tensorflow-base-1.9. | 75.7 MB   | #          |  11% tensorflow-base-1.9. | 75.7 MB   | ##2        |  23% tensorflow-base-1.9. | 75.7 MB   | ###4       |  34% tensorflow-base-1.9. | 75.7 MB   | ####4      |  45% tensorflow-base-1.9. | 75.7 MB   | #####4     |  55% tensorflow-base-1.9. | 75.7 MB   | ######5    |  65% tensorflow-base-1.9. | 75.7 MB   | #######5   |  75% tensorflow-base-1.9. | 75.7 MB   | ########4  |  85% tensorflow-base-1.9. | 75.7 MB   | #########1 |  91% tensorflow-base-1.9. | 75.7 MB   | #########5 |  96% tensorflow-base-1.9. | 75.7 MB   | #########9 |  99% tensorflow-base-1.9. | 75.7 MB   | ########## | 100% 
+absl-py-0.6.1        | 152 KB    |            |   0% absl-py-0.6.1        | 152 KB    | ########## | 100% 
+keras-preprocessing- | 52 KB     |            |   0% keras-preprocessing- | 52 KB     | ########## | 100% 
+certifi-2018.11.29   | 146 KB    |            |   0% certifi-2018.11.29   | 146 KB    | ########## | 100% 
+keras-applications-1 | 49 KB     |            |   0% keras-applications-1 | 49 KB     | ########## | 100% 
+markdown-3.0.1       | 107 KB    |            |   0% markdown-3.0.1       | 107 KB    | ########## | 100% 
+keras-base-2.2.4     | 457 KB    |            |   0% keras-base-2.2.4     | 457 KB    | #########4 |  95% keras-base-2.2.4     | 457 KB    | ########## | 100% 
+tensorflow-1.9.0     | 3 KB      |            |   0% tensorflow-1.9.0     | 3 KB      | ########## | 100% 
+conda-4.5.12         | 1.0 MB    |            |   0% conda-4.5.12         | 1.0 MB    | ########3  |  83% conda-4.5.12         | 1.0 MB    | ########## | 100% 
+astor-0.7.1          | 43 KB     |            |   0% astor-0.7.1          | 43 KB     | ########## | 100% 
+tensorboard-1.9.0    | 3.3 MB    |            |   0% tensorboard-1.9.0    | 3.3 MB    | #######6   |  76% tensorboard-1.9.0    | 3.3 MB    | #########6 |  97% tensorboard-1.9.0    | 3.3 MB    | ########## | 100% 
+gast-0.2.1           | 137 KB    |            |   0% gast-0.2.1           | 137 KB    | ########## | 100% 
+Downloading and Extracting Packages
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+
+conda install python-lmdb pydot scikit-learn
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/ubuntu/anaconda3
+
+  added / updated specs: 
+    - pydot
+    - python-lmdb
+    - scikit-learn
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    pydot-1.3.0                |           py36_1          40 KB
+    numexpr-2.6.9              |   py36h9e4a6bb_0         194 KB
+    scipy-1.1.0                |   py36h7c811a0_2        17.7 MB
+    python-lmdb-0.94           |   py36h14c3975_0         125 KB
+    mkl_random-1.0.2           |   py36hd81dba3_0         407 KB
+    scikit-learn-0.20.2        |   py36hd81dba3_0         5.7 MB
+    numpy-1.15.4               |   py36h7e9f1db_0          47 KB
+    numpy-base-1.15.4          |   py36hde5b4d6_0         4.3 MB
+    mkl_fft-1.0.10             |   py36ha843d7b_0         170 KB
+    mkl-service-1.1.2          |   py36he904b0f_5         132 KB
+    ------------------------------------------------------------
+                                           Total:        28.8 MB
+
+The following NEW packages will be INSTALLED:
+
+    pydot:        1.3.0-py36_1         
+    python-lmdb:  0.94-py36h14c3975_0  
+
+The following packages will be UPDATED:
+
+    libstdcxx-ng: 7.2.0-hdf63c60_3      --> 8.2.0-hdf63c60_1     
+    mkl:          2018.0.2-1            --> 2019.1-144           
+    mkl-service:  1.1.2-py36h17a0993_4  --> 1.1.2-py36he904b0f_5 
+    mkl_fft:      1.0.1-py36h3010b51_0  --> 1.0.10-py36ha843d7b_0
+    mkl_random:   1.0.1-py36h629b387_0  --> 1.0.2-py36hd81dba3_0 
+    numexpr:      2.6.5-py36h7bf3b9c_0  --> 2.6.9-py36h9e4a6bb_0 
+    numpy:        1.14.3-py36hcd700cb_1 --> 1.15.4-py36h7e9f1db_0
+    numpy-base:   1.14.3-py36h9be14a7_1 --> 1.15.4-py36hde5b4d6_0
+    scikit-learn: 0.19.1-py36h7aa7ec6_0 --> 0.20.2-py36hd81dba3_0
+    scipy:        1.1.0-py36hfc37229_0  --> 1.1.0-py36h7c811a0_2 
+
+Proceed ([y]/n)? 
+pydot-1.3.0          | 40 KB     |            |   0% pydot-1.3.0          | 40 KB     | ########## | 100% 
+numexpr-2.6.9        | 194 KB    |            |   0% numexpr-2.6.9        | 194 KB    | ########## | 100% 
+scipy-1.1.0          | 17.7 MB   |            |   0% scipy-1.1.0          | 17.7 MB   | ####6      |  47% scipy-1.1.0          | 17.7 MB   | #######5   |  75% scipy-1.1.0          | 17.7 MB   | #########2 |  92% scipy-1.1.0          | 17.7 MB   | ########## | 100% 
+python-lmdb-0.94     | 125 KB    |            |   0% python-lmdb-0.94     | 125 KB    | 9          |  10% python-lmdb-0.94     | 125 KB    | ########## | 100% 
+mkl_random-1.0.2     | 407 KB    |            |   0% mkl_random-1.0.2     | 407 KB    | ########## | 100% 
+scikit-learn-0.20.2  | 5.7 MB    |            |   0% scikit-learn-0.20.2  | 5.7 MB    | #######5   |  76% scikit-learn-0.20.2  | 5.7 MB    | #########8 |  98% scikit-learn-0.20.2  | 5.7 MB    | ########## | 100% 
+numpy-1.15.4         | 47 KB     |            |   0% numpy-1.15.4         | 47 KB     | ########## | 100% 
+numpy-base-1.15.4    | 4.3 MB    |            |   0% numpy-base-1.15.4    | 4.3 MB    | #######6   |  76% numpy-base-1.15.4    | 4.3 MB    | #########6 |  96% numpy-base-1.15.4    | 4.3 MB    | ########## | 100% 
+mkl_fft-1.0.10       | 170 KB    |            |   0% mkl_fft-1.0.10       | 170 KB    | ########## | 100% 
+mkl-service-1.1.2    | 132 KB    |            |   0% mkl-service-1.1.2    | 132 KB    | ########## | 100% 
+Downloading and Extracting Packages
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+
